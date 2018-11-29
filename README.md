@@ -8,15 +8,8 @@
 3. fis3 install
 
 ### develop deps fis plugins
-fis3-parser-vue-component
-fis-parser-jade
-fis3-parser-less-2.x
-fis-parser-babel2
-babel-core
-babel-loader
-babel-plugin-transform-runtime
-babel-preset-es2015
-
+npm i
+npm install fis3-parser-vue-component fis-parser-jade fis3-parser-less-2.x fis-parser-babel2 babel-core babel-loader babel-plugin-transform-runtimebabel-preset-es2015 fis3-hook-commonjs fis3-hook-node_modules fis-parser-babel-5.x fis3-parser-translate-es3ify fis3-postprocessor-autoprefixer fis3-postpackager-loader
 
 ## 开发环境
 1、mac + item2 + vim[sublime3]
